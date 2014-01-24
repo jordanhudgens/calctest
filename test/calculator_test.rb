@@ -1,4 +1,5 @@
 require 'test/unit'
+require 'app/calculator'
 
 class CalculatorTest < Test::Unit::TestCase
 
